@@ -2,7 +2,7 @@
 
 Shareable configuration of ESLint.
 
-## :cd: Installation
+## Installation
 
 ```
 yarn add --dev eslint eslint-config-codepunkt
@@ -13,12 +13,12 @@ yarn add --dev eslint eslint-config-codepunkt
 - Node.js `^6.9.4` or newer
 - ESLint `^3.19.0` or newer
 
-## :book: Usage
+## Usage
 
 Create an `.eslintrc` in your projects root directory that extends this configuration:
 
 ```json
 {
-    "extends": [ "codepunkt" ]
+  "extends": [ "codepunkt" ]
 }
 ```
