@@ -31,21 +31,7 @@
         "objectsInObjects": false
       }
     ],
-    "standard/array-bracket-even-spacing": [
-      2,
-      "always",
-      {
-        "arraysInArrays": false,
-        "objectsInArrays": false
-      }
-    ],
-    "standard/object-curly-even-spacing": [
-      2,
-      "always",
-      {
-        "arraysInObjects": false,
-        "objectsInObjects": false
-      }
-    ]
+    "standard/array-bracket-even-spacing": [ 0 ],
+    "standard/object-curly-even-spacing": [ 0 ]
   }
 }
