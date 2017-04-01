@@ -9,6 +9,7 @@
     "babel-eslint": "^7.2.1",
     "eslint": "^3.19.0",
     "eslint-config-standard": "^7.1.0",
+    "eslint-config-standard-react": "^4.3.0",
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-jest": "^19.0.1",
     "eslint-plugin-node": "^4.2.2",
@@ -19,10 +20,12 @@
     "babel-eslint": "^7.2.1",
     "eslint": "^3.19.0",
     "eslint-config-standard": "^7.1.0",
+    "eslint-config-standard-react": "^4.3.0",
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-jest": "^19.0.1",
     "eslint-plugin-node": "^4.2.2",
     "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-react": "^6.10.3",
     "eslint-plugin-standard": "^2.1.1"
   }
 }
