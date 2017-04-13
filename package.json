@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-codepunkt",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.js",
   "author": "Christoph Werner <christoph@codepunkt.de>",
   "license": "MIT",
