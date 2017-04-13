@@ -32,6 +32,7 @@
       }
     ],
     "standard/array-bracket-even-spacing": [ 0 ],
-    "standard/object-curly-even-spacing": [ 0 ]
+    "standard/object-curly-even-spacing": [ 0 ],
+    "react/prop-types": [ 0 ]
   }
 }
