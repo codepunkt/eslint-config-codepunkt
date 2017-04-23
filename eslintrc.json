@@ -5,6 +5,7 @@
     "standard-react"
   ],
   "plugins": [
+    "class-property",
     "jest"
   ],
   "env": {
@@ -33,6 +34,10 @@
     ],
     "standard/array-bracket-even-spacing": [ 0 ],
     "standard/object-curly-even-spacing": [ 0 ],
-    "react/prop-types": [ 0 ]
+    "react/prop-types": [ 0 ],
+    "class-property/class-property-semicolon": [
+      2,
+      "never"
+    ]
   }
 }
